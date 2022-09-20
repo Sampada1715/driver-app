@@ -1,0 +1,326 @@
+{
+  "project_info": {
+    "project_number": "1063244876586",
+    "project_id": "flutter-getx-template-224ef",
+    "storage_bucket": "flutter-getx-template-224ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063244876586:android:7daf264cf4256c50c2ac53",
+        "android_client_info": {
+          "package_name": "app.bhoomi.guideline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063244876586-4co5qkfrcqahhlqkpkciml1olb10gqvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.bhoomi.guideline",
+            "certificate_hash": "914be78d140d0dd3eb66ddcce0c55d2e4dc27d8d"
+          }
+        },
+        {
+          "client_id": "1063244876586-7o61ok1khia8d3m4ik9p3v6m0lkoue40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-F0d0Z8mlxULoTL4SLSFenDOzk8Jusuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063244876586-7o61ok1khia8d3m4ik9p3v6m0lkoue40.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063244876586-fqjs92fbfvld3aeplnrbk1ib957idh9f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.online.chicken"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063244876586:android:8e6fadfd57ef61c9c2ac53",
+        "android_client_info": {
+          "package_name": "app.doctor.mgr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063244876586-gvv59kgruri75qe2gb8ml6von150enjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.doctor.mgr",
+            "certificate_hash": "914be78d140d0dd3eb66ddcce0c55d2e4dc27d8d"
+          }
+        },
+        {
+          "client_id": "1063244876586-7o61ok1khia8d3m4ik9p3v6m0lkoue40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-F0d0Z8mlxULoTL4SLSFenDOzk8Jusuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063244876586-7o61ok1khia8d3m4ik9p3v6m0lkoue40.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063244876586-fqjs92fbfvld3aeplnrbk1ib957idh9f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.online.chicken"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063244876586:android:0e223522e0f2fa55c2ac53",
+        "android_client_info": {
+          "package_name": "app.online.chicken"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063244876586-sm7phfub2rm30dl1sj4pn1805uqlbr3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.online.chicken",
+            "certificate_hash": "914be78d140d0dd3eb66ddcce0c55d2e4dc27d8d"
+          }
+        },
+        {
+          "client_id": "1063244876586-7o61ok1khia8d3m4ik9p3v6m0lkoue40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-F0d0Z8mlxULoTL4SLSFenDOzk8Jusuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063244876586-7o61ok1khia8d3m4ik9p3v6m0lkoue40.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063244876586-fqjs92fbfvld3aeplnrbk1ib957idh9f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.online.chicken"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063244876586:android:e4e337569d1fa9edc2ac53",
+        "android_client_info": {
+          "package_name": "app.service.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063244876586-fgedkn9vbo8dmba82etn4rrml6fjug9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.service.provider",
+            "certificate_hash": "5b23cb4e046c6f5160bd374459db4865d04f542d"
+          }
+        },
+        {
+          "client_id": "1063244876586-o8igod7gcdfm27cbrad9mibtfk3pnqba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.service.provider",
+            "certificate_hash": "914be78d140d0dd3eb66ddcce0c55d2e4dc27d8d"
+          }
+        },
+        {
+          "client_id": "1063244876586-7o61ok1khia8d3m4ik9p3v6m0lkoue40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-F0d0Z8mlxULoTL4SLSFenDOzk8Jusuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063244876586-7o61ok1khia8d3m4ik9p3v6m0lkoue40.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063244876586-fqjs92fbfvld3aeplnrbk1ib957idh9f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.online.chicken"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063244876586:android:0af0eab574f98044c2ac53",
+        "android_client_info": {
+          "package_name": "com.example.new_template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063244876586-943li1ivsf3f3eul9h0p7uu5c2rm3nji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.new_template",
+            "certificate_hash": "914be78d140d0dd3eb66ddcce0c55d2e4dc27d8d"
+          }
+        },
+        {
+          "client_id": "1063244876586-7o61ok1khia8d3m4ik9p3v6m0lkoue40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-F0d0Z8mlxULoTL4SLSFenDOzk8Jusuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063244876586-7o61ok1khia8d3m4ik9p3v6m0lkoue40.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063244876586-fqjs92fbfvld3aeplnrbk1ib957idh9f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.online.chicken"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063244876586:android:ebf76609ca3c263cc2ac53",
+        "android_client_info": {
+          "package_name": "com.ridy.taxi.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063244876586-ifdma55g8mcn8vaort8u2q97jiqe7aj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ridy.taxi.driver",
+            "certificate_hash": "914be78d140d0dd3eb66ddcce0c55d2e4dc27d8d"
+          }
+        },
+        {
+          "client_id": "1063244876586-7o61ok1khia8d3m4ik9p3v6m0lkoue40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-F0d0Z8mlxULoTL4SLSFenDOzk8Jusuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063244876586-7o61ok1khia8d3m4ik9p3v6m0lkoue40.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063244876586-fqjs92fbfvld3aeplnrbk1ib957idh9f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.online.chicken"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063244876586:android:4a06abc5c5890135c2ac53",
+        "android_client_info": {
+          "package_name": "com.ridy.taxi.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063244876586-fostj6hm1706e46t5ioj8l0le5lr15mt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ridy.taxi.rider",
+            "certificate_hash": "914be78d140d0dd3eb66ddcce0c55d2e4dc27d8d"
+          }
+        },
+        {
+          "client_id": "1063244876586-7o61ok1khia8d3m4ik9p3v6m0lkoue40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-F0d0Z8mlxULoTL4SLSFenDOzk8Jusuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063244876586-7o61ok1khia8d3m4ik9p3v6m0lkoue40.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063244876586-fqjs92fbfvld3aeplnrbk1ib957idh9f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.online.chicken"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
