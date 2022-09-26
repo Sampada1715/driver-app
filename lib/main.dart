@@ -1,5 +1,4 @@
 import 'dart:async';
-
 import 'package:client_shared/config.dart';
 import 'package:client_shared/map_providers.dart';
 import 'package:client_shared/theme/theme.dart';
@@ -39,8 +38,10 @@ import 'package:intl/intl.dart';
 import 'graphql/generated/graphql_api.dart';
 import 'graphql_provider.dart';
 import 'package:geolocator/geolocator.dart';
-import 'package:intro_slider/intro_slider.dart';
-import 'package:ridy/slider/intro_slider.dart';
+import 'package:ridy/custom_widget.dart';
+//import 'package:ridy/data.dart';
+import 'package:ridy/slider/views/slider_view.dart';
+
 
 // ignore: avoid_void_async
 void main() async {
@@ -87,7 +88,7 @@ class MyApp extends StatelessWidget {
                 ],
                 supportedLocales: S.delegate.supportedLocales,
                 routes: {
-                  'slider': (context) => const IntroSlider(),
+                  'Welcome-slider': (context) => const SliderView(),
                   'register': (context) => const ProfileView(),
                   'trip-history': (context) => const TripHistoryListView(),
                   'announcements': (context) => const AnnouncementsView(),
@@ -96,7 +97,8 @@ class MyApp extends StatelessWidget {
                   'wallet': (context) => const WalletView(),
                 },
                 theme: CustomTheme.theme1,
-                home: MyHomePage()),
+                home: MyHomePage(),
+            ),
           ),
         );
       },
@@ -133,7 +135,8 @@ class MyHomePage extends StatelessWidget with WidgetsBindingObserver {
             ),
           ),
         ),
-        body: ValueListenableBuilder(
+        body:
+        ValueListenableBuilder(
             valueListenable: Hive.box('user').listenable(),
             builder: (context, Box box, widget) {
               if (box.get('jwt') == null) {
@@ -183,8 +186,7 @@ class MyHomePage extends StatelessWidget with WidgetsBindingObserver {
                                         next.driver?.status) {
                                   return false;
                                 }
-                                if ((previous is StatusOnline) && Ignoring header X-Firebase-Locale because its value was null.
-                                E/flutter ( 5293): [ERROR:flutter/runtime/dart_vm_initializer.cc(41)] Unhandled Exception: [firebase_auth/session-expired] The sms code has expired. Please re-send the verification code to try again.
+                                if ((previous is StatusOnline) &&
                                     next is StatusOnline) {
                                   return false;
                                 }

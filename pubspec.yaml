@@ -10,6 +10,9 @@ environment:
 
 dependencies:
   artemis: 7.7.0-beta
+  get: ^4.6.5
+  onboarding_animation: ^0.0.2
+  delayed_display: ^2.0.0
   country_code_picker: ^2.0.2
   country_codes: ^2.2.0
   dotted_line: ^3.1.0
@@ -41,6 +44,7 @@ dependencies:
   http: ^0.13.4
   intl: ^0.17.0
   flutter_vector_icons: ^1.0.0
+  flutter_onboarding_slider: ^1.0.7
   json_annotation: ^4.5.0
   latlong2: ^0.8.1
   lifecycle: ^0.5.0
@@ -81,6 +85,10 @@ flutter:
     - images/slider2.jpeg
     - images/slider3.jpeg
     - images/slider4.jpeg
+    - images/slider11.png
+    - images/slider22.png
+    - images/slider33.png
+    - images/slider44.png
     - google_fonts/
 
 flutter_intl:
